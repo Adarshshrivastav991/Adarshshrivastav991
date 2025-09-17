@@ -2,7 +2,7 @@
 <img src="https://github.com/Adarshshrivastav991/Adarshshrivastav991/blob/main/github-header-banner.png?raw=true" alt="logo">
 <h1 align="center">Hi 👋, I'm Adarsh Shrivastav</h1>
 <h3 align="center">A passionate</h3>
-<img align="right" width="400" src="https://github.com/Adarshshrivastav991/Adarshshrivastav991/blob/main/Coding%20Artificial%20Intelligence%20GIF%20by%20Pudgy%20Penguins.gif?raw=true" alt="coding">
+<img align="right" width="350" src="https://github.com/Adarshshrivastav991/Adarshshrivastav991/blob/main/Coding%20Artificial%20Intelligence%20GIF%20by%20Pudgy%20Penguins.gif?raw=true" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshshrivastav991&label=Profile%20views&color=0e75b6&style=flat" alt="adarshshrivastav991" /> </p>
 
