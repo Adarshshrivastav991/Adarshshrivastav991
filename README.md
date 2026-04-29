@@ -119,7 +119,7 @@ Modern Salon Booking App
 
 ---
 
-# ⚙ Dynamic Profile Summary
+# Profile Summary
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarshshrivastav991&theme=tokyonight"/>
